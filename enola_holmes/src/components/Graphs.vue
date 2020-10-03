@@ -29,7 +29,7 @@
                         }
                     ],
                     title: {
-                        text: 'coucou',
+                        text: 'graph',
                     },
                     color: ["#f03482"]
                 },

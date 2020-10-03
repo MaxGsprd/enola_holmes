@@ -53,9 +53,6 @@ export default {
        text-shadow: 2px 2px #444;
     }
 
-    #userInfo h1 {
-    }
-
     #userInfo p {
         padding: 10px 0;
         font-style: italic;
